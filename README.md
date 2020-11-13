@@ -6,6 +6,8 @@
 
 例如:haproxy 热更新 黑白名单
 
-199CNY永久授权，不限机器数
+199CNY永久授权，不限机器数；
+Telegram bot自助授权 （可选，只提供使用权）
+
 
 购买可Telegram联系@steamsv
